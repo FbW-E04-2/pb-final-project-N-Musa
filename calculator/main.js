@@ -6,7 +6,6 @@ class calculator {
       this.y = y;
       this.w = w;
     }
-    //Properties
     get e(){ return calculate.e() }
     get pi(){ return calculate.pi() };
     //Methods
